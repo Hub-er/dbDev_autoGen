@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "auto_gen", "auto_gen.vcproj", "{C527DED6-B7B2-4430-9136-F6A9FB74E55A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C527DED6-B7B2-4430-9136-F6A9FB74E55A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C527DED6-B7B2-4430-9136-F6A9FB74E55A}.Debug|Win32.Build.0 = Debug|Win32
+		{C527DED6-B7B2-4430-9136-F6A9FB74E55A}.Release|Win32.ActiveCfg = Release|Win32
+		{C527DED6-B7B2-4430-9136-F6A9FB74E55A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
